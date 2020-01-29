@@ -1,0 +1,1 @@
+На codewars и ercism есть задачи по bash & vim

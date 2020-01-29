@@ -1,0 +1,13 @@
+Flex
+https://flexboxfroggy.com/#ru
+
+Grid
+https://codepip.com/games/grid-garden/
+
+
+w3school
+https://www.w3schools.com/
+
+Игры CSS, HTML
+https://geekbrains.ru/posts/games_for_frontend_practice
+https://proglib.io/p/10-fun-web-games/

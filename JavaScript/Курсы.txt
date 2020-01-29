@@ -1,0 +1,10 @@
+Введение
+https://ru.hexlet.io/courses/introduction_to_programming
+
+Node.js
+https://habr.com/ru/post/485294/
+
+Два курса: frontend & fullstack
+https://www.theodinproject.com/tracks
+
+

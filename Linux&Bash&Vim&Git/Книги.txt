@@ -1,0 +1,7 @@
+Learn Enough Command Line to Be Dangerous
+(ссылка на бесплатные главы книги)
+(на сайте еще много годноты и других книг)
+https://www.learnenough.com/command-line-tutorial/basics
+
+The Linux Command Line: A Complete Introduction
+https://www.amazon.com/Linux-Command-Line-Complete-Introduction-ebook-dp-B006X2QEQS/dp/B006X2QEQS/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1547993668&linkCode=sl1&tag=treyhuffine-20&linkId=b61dc0dc566d4a8e99a290525fb7262a&language=en_US

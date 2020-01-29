@@ -1,0 +1,11 @@
+MySQL
+https://www.youtube.com/playlist?list=PLeYxjiX1MAIk1yC8Jb489zRRuN6HoS4FB
+
+SQLite
+https://www.youtube.com/playlist?list=PLeYxjiX1MAInukqt-0XKbG9qP2j0QovZH
+
+Основы SQL
+https://www.youtube.com/playlist?list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD
+
+Про Базы Данных
+https://www.youtube.com/playlist?list=PLY7PmJJFH5nT-lbFKxfbp3rw5BBuq5Azo

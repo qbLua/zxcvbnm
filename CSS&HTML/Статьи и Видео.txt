@@ -1,0 +1,23 @@
+CSS
+https://css-irl.info/
+
+CSS
+https://css.christmas/
+
+Как работает CSS Flexbox
+https://dailycoding.io/article/H20ocwIFd8vCqbYQE0eI
+
+Understanding the “Initial”, “Inherit” and “Unset” CSS Keywords
+https://medium.com/@elad/understanding-the-initial-inherit-and-unset-css-keywords-2d70b7121695
+
+Magical Rainbow Gradients with CSS Houdini and React Hooks
+https://www.joshwcomeau.com/posts/rainbow-button/
+
+The CSS Cascade
+https://wattenberger.com/blog/css-cascade#origin
+
+CSS Inspiration
+https://www.youtube.com/watch?v=d1xGDF2ToEY&list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI
+
+Bootstrap Cheat Sheet
+https://hackerthemes.com/bootstrap-cheatsheet/

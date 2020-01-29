@@ -1,0 +1,14 @@
+CodeBasics
+https://ru.code-basics.com/languages/javascript
+
+FreeCodeCamp
+https://www.freecodecamp.org/learn
+
+codecademy
+https://www.codecademy.com/catalog/language/javascript
+
+w3school
+https://www.w3schools.com/
+
+Developers Google (тут очень много всего)
+https://developers.google.com/web?hl=ru

@@ -1,0 +1,12 @@
+Статьи
+https://javascript.christmas/
+https://functional.christmas/
+
+Folding the DOM
+https://www.joshwcomeau.com/posts/folding-the-dom/
+
+Много всего | YouTube
+https://www.youtube.com/user/TechGuyWeb/playlists
+
+JS | YouTube
+https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/playlists
